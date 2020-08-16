@@ -12,8 +12,8 @@ I'm a first year PhD student in Computational Biology at the Institute of Comput
 [<img align="left" alt="GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googlescholar.svg" />][GoogleScholar]
 [<img align="left" alt="Orcid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/orcid.svg" />][ORCID]  
 
+<br />
 
--------- 
 <sub>This website is powered by **[fastpages](https://github.com/fastai/fastpages)**<sub>
 
 [Linkedin]: https://www.linkedin.com/in/giovanni-palla-25541578/
