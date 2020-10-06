@@ -4,17 +4,16 @@ title: About Me
 permalink: /about/
 ---
 
-<img style="float: right;" src="./../images/me.jpg" width=130>
-
+<img style="float: right; padding-left:10px" src="./../images/me.jpg" width=200>
 I'm a first year PhD student in Computational Biology at the Institute of Computational Biology, Helmholtz Center Munich, Germany.  
   
-[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][Github]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googlescholar.svg" />][GoogleScholar]
-[<img align="left" alt="Orcid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/orcid.svg" />][ORCID]  
+[<img align="left" alt="Github" style="padding-right:10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][Github]
+[<img align="left" alt="Twitter" style="padding-right:10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Linkedin" style="padding-right:10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="GoogleScholar" style="padding-right:10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googlescholar.svg" />][GoogleScholar]
+[<img align="left" alt="Orcid" style="padding-right:10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/orcid.svg" />][ORCID]
 
-<br />
+&nbsp;
 
 <sub>This website is powered by **[fastpages](https://github.com/fastai/fastpages)**<sub>
 
