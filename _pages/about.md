@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+<img style="float: right;" src="./../images/me.jpg" width=130>
+
 I'm a first year PhD student in Computational Biology at the Institute of Computational Biology, Helmholtz Center Munich, Germany.  
   
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][Github]
